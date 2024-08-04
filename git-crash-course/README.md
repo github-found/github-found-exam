@@ -7,3 +7,5 @@
 ## Stashing
 
 ## Merging
+
+## Extra info
